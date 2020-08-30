@@ -1,0 +1,29 @@
+.app{
+    
+    height: 100vh;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card>button{
+    height: 5px;
+    padding: 15px;
+    margin-left: 20px;
+}
+@media only screen and (min-width: 600px) {
+   .app{
+       height: 100%;
+       width: 100%;
+
+   }
+  }
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .app{
+        height: 100%;
+        width: 100%;
+ 
+    }
+  }

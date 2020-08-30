@@ -6,6 +6,10 @@
 A simple trello-clone with kanban board using basic react and some material-ui icons only .
 Learn to create a Trello Dashboard clone with React!
 
+## Create react project
+```
+npx create-react-app appname
+```
 
 ## Installation
 

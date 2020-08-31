@@ -22,6 +22,7 @@ npm install '@material-ui/icons'
 
 ## starting server/Run code
 ```
+npm init
 npm start
 code will run at localhost:3000
 ```
